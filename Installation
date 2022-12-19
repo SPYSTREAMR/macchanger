@@ -1,0 +1,4 @@
+git clone https://github.com/SPYSTREAMR/macchanger.git
+cd macchanger 
+chmod +x mac.sh 
+./mac.sh 
